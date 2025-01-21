@@ -1,9 +1,8 @@
-/******************************************************************************/
-/* model:  untuk model sendiri anda dapat menggunakan sendiri dengan cara menambahkan model yang kalian miliki
-/*         ke dalam folder models lalu meletakkan path-nya pada properti role 
-/*  role:  letakkan path dari file [nama_model].model.json kalian
-/*         file [nama_model] juga dapat ber-ekstensi .model.json, .model2.json, atau .model3.json                             
-/* scale:  untuk mengubah besar ukuran model yang akan ditampilkan
+model:  untuk model sendiri anda dapat menggunakan sendiri dengan cara menambahkan model yang kalian miliki
+        ke dalam folder models lalu meletakkan path-nya pada properti role 
+role:  letakkan path dari file [nama_model].model.json kalian
+        file [nama_model] juga dapat ber-ekstensi .model.json, .model2.json, atau .model3.json                             
+scale:  untuk mengubah besar ukuran model yang akan ditampilkan
 /******************************************************************************/
 penggunaan
 <code>
