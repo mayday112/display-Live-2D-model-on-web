@@ -20,3 +20,6 @@ new Live2dLoader([
     },
   ]);
 </code>
+
+Credit
+<a href="https://github.com/AzharRizky/Live2D-Model.git">Live 2D model by AzharRizky</a>
